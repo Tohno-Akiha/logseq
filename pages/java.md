@@ -1,8 +1,14 @@
 - # 第一章：初始java
 	- ## DOS命令
 		- DOS操作系统
-			- 微软公司的操作系统，在windows之前诞生
+			- 微软公司的操作系统，在**Windows**之前诞生
 		- DOS命令
 		- 命令学习
 		- 具体的dos命令
-			- （1）切换盘符：C: D: E:
+			- （1）切换盘符：==C: D: E:==
+			- （2）显示详细信息：dir
+			- ![2022_07_01_image.png](https://cdn.logseq.com/%2F4b9d86ab-bf84-485d-a004-60ceafb24518ab1b69ad-4fa1-46bd-bb98-e8349b3791b52022_07_01_image.png?Expires=4810283522&Signature=WAfrqB3geXpTLgZSsh3zzHGgoHbpitKDRDPsK09Q0g6DxscBCXdoWa3HCWKLqyY34mru7G22hj4B5s3zAtbY5RdJZkvZ7knBPvIw96BZVDT8OGYqWew50w7MGdjGoH9REvKgms7rq~xM6MzcpoGaN~~vgFNBalfPA8Y26f037EtKDLSSn0x2IPHCfOqAPgWbcoCO2WD8VahiQ~q~fjDNUoc8jS~8h7rBuZ4LN5LuMFIG4PNP84kLOX6GTZfOC9F37y7DpC9A6FW8~Bv0a1Db4DYJWr9xPGFb-VMX9zRTwlm6ysNYTtJ-EFJHyeV8Mwb0c9ylh4FTCgcd1~T2AvmAfg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 277, :width 486}
+			- （3）改变当前目录：cd
+-
+-
+-
